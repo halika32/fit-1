@@ -1,5 +1,9 @@
-<html>
+<DOCTYPE html>
+<html lang="en-US">
 <head>
-<body style="background-color:green;">
-<h1 style="font-size:20px; font-family:castellar;"><b>Welcome to Uniquely Fit 2 U<b></h1>
+<title> Uniquely Fit 2 U | Chicago | Fitness Expert and Running Enthusiast</title>
+<body>
+<h1 style="font-size:20px;"><b>Welcome to Uniquely Fit 2 U<b></h1>
+<p> Have fitness goal that need to be met? I did too! Follow my fitness journey and see how I wa able to reach my goals!
+
 
